@@ -3,7 +3,7 @@ const app = express();
 app.use(express.json());
 
 // VERIFY TOKEN (VERY IMPORTANT)
-const VERIFY_TOKEN = "EAAhnXwsqesgBQEECflQzWfUHGZAJPgHXjuJjMDmQ0qcMZCAK13YYM6KT..."; 
+const VERIFY_TOKEN = "mywhatsapptoken123"; 
 // <-- Use the SAME TOKEN you entered in Meta dashboard
 
 // WEBHOOK VERIFICATION
